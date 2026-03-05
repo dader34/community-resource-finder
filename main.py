@@ -154,7 +154,7 @@ def list_resources(_resources, by_language, by_category=True):
         list_resources([resource for resource in _resources if resource['category'] == selected_category], by_language=False, by_category=False)
     
     # Show all resources with chosen language
-    if by_language:
+    elif by_language:
         selected_language = added_items[int(user_choice)]
         list_resources([resource for resource in _resources if selected_language in resource['languages']], by_language=False, by_category=False)
     
