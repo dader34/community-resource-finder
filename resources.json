@@ -1,0 +1,404 @@
+{
+    "resources": [
+        {
+            "name": "Volunteers of America Everett Community Food Bank",
+            "category": "Food",
+            "address": "1230 Broadway, Everett, WA 98201",
+            "phone": "(425) 312-3630",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Bethany Compassion Center Food Pantry",
+            "category": "Food",
+            "address": "1421 Broadway, Everett, WA 98201",
+            "phone": "(425) 512-9696",
+            "languages": ["English", "Spanish", "Tagalog"],
+            "zip": "98201"
+        },
+        {
+            "name": "VOA Bible Baptist Church Drive-Thru Pantry",
+            "category": "Food",
+            "address": "805 W Casino Rd, Everett, WA 98204",
+            "phone": "(425) 353-6200",
+            "languages": ["English", "Spanish", "Korean"],
+            "zip": "98204"
+        },
+        {
+            "name": "Salvation Army Everett Corps",
+            "category": "Food",
+            "address": "2525 Rucker Ave, Everett, WA 98201",
+            "phone": "(425) 259-8129",
+            "languages": ["English", "Korean", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "St Mary Magdalen Catholic Church Pantry",
+            "category": "Food",
+            "address": "8615 7th Ave SE, Everett, WA 98208",
+            "phone": "(425) 353-1211",
+            "languages": ["English", "Tagalog"],
+            "zip": "98208"
+        },
+        {
+            "name": "South Everett Community Food Bank",
+            "category": "Food",
+            "address": "7707 Evergreen Way, Everett, WA 98203",
+            "phone": "(425) 355-1042",
+            "languages": ["English", "Russian"],
+            "zip": "98203"
+        },
+        {
+            "name": "Trinity Lutheran Church Pantry",
+            "category": "Food",
+            "address": "2324 Lombard Ave, Everett, WA 98201",
+            "phone": "(425) 252-1239",
+            "languages": ["English", "German"],
+            "zip": "98201"
+        },
+        {
+            "name": "HopeWorks Station Pantry",
+            "category": "Food",
+            "address": "3331 Broadway, Everett, WA 98201",
+            "phone": "(425) 374-5382",
+            "languages": ["English", "Arabic"],
+            "zip": "98201"
+        },
+        {
+            "name": "Evergreen Food Pantry",
+            "category": "Food",
+            "address": "5930 Evergreen Way, Everett, WA 98203",
+            "phone": "(425) 252-7992",
+            "languages": ["English", "Vietnamese"],
+            "zip": "98203"
+        },
+        {
+            "name": "Cascade View Presbyterian Church Pantry",
+            "category": "Food",
+            "address": "1030 W Casino Rd, Everett, WA 98204",
+            "phone": "(425) 353-4055",
+            "languages": ["English", "Korean"],
+            "zip": "98204"
+        },
+        {
+            "name": "Community Health Center of Snohomish County",
+            "category": "Free Clinics",
+            "address": "930 N Broadway, Everett, WA 98201",
+            "phone": "(425) 339-5437",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Sea Mar Community Health Centers",
+            "category": "Free Clinics",
+            "address": "1920 100th St SE, Everett, WA 98208",
+            "phone": "(425) 312-0202",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98208"
+        },
+        {
+            "name": "Planned Parenthood Everett Health Center",
+            "category": "Free Clinics",
+            "address": "1509 32nd St, Everett, WA 98201",
+            "phone": "(425) 339-5200",
+            "languages": ["English", "Spanish"],
+            "zip": "98201"
+        },
+        {
+            "name": "Providence Community Clinic",
+            "category": "Free Clinics",
+            "address": "2619 Rockefeller Ave, Everett, WA 98201",
+            "phone": "(425) 258-3900",
+            "languages": ["English", "Tagalog"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Gospel Mission Clinic",
+            "category": "Free Clinics",
+            "address": "3711 Smith Ave, Everett, WA 98201",
+            "phone": "(425) 740-2500",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Compass Health",
+            "category": "Free Clinics",
+            "address": "3322 Broadway, Everett, WA 98201",
+            "phone": "(425) 349-6200",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Public Health Clinic",
+            "category": "Free Clinics",
+            "address": "3020 Rucker Ave, Everett, WA 98201",
+            "phone": "(425) 339-5200",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Community Health Everett South Clinic",
+            "category": "Free Clinics",
+            "address": "1019 112th St SW, Everett, WA 98204",
+            "phone": "(425) 551-6000",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98204"
+        },
+        {
+            "name": "Providence Intervention Center",
+            "category": "Free Clinics",
+            "address": "1700 13th St, Everett, WA 98201",
+            "phone": "(425) 258-7390",
+            "languages": ["English", "Spanish"],
+            "zip": "98201"
+        },
+        {
+            "name": "Sea Mar Behavioral Health",
+            "category": "Free Clinics",
+            "address": "1110 N Broadway, Everett, WA 98201",
+            "phone": "(425) 303-6800",
+            "languages": ["English", "Spanish", "Tagalog"],
+            "zip": "98201"
+        },
+        {
+            "name": "Northwest Justice Project (Civil Legal Help)",
+            "category": "Legal Aid",
+            "address": "2822 Colby Ave, Suite 400, Everett, WA 98201",
+            "phone": "(425) 252-8515",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Snohomish County Legal Services",
+            "category": "Legal Aid",
+            "address": "2920 Colby Ave, Suite 102, Everett, WA 98201",
+            "phone": "(425) 258-9283",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Public Library Legal Help",
+            "category": "Legal Aid",
+            "address": "2702 Hoyt Ave, Everett, WA 98201",
+            "phone": "(425) 257-8000",
+            "languages": ["English", "Spanish", "Russian", "Tagalog"],
+            "zip": "98201"
+        },
+        {
+            "name": "Catholic Community Services – Everett",
+            "category": "Legal Aid",
+            "address": "1918 Everett Ave, Everett, WA 98201",
+            "phone": "(425) 257-2111",
+            "languages": ["English", "Spanish", "Tagalog", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Public Defender Association – Everett",
+            "category": "Legal Aid",
+            "address": "2722 Colby Ave, Everett, WA 98201",
+            "phone": "(425) 339-6300",
+            "languages": ["English", "Spanish", "Korean"],
+            "zip": "98201"
+        },
+        {
+            "name": "Legal Aid Society of Snohomish – Everett Office",
+            "category": "Legal Aid",
+            "address": "2700 Rockefeller Ave, Everett, WA 98201",
+            "phone": "(425) 252-8515",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Volunteer Legal Services",
+            "category": "Legal Aid",
+            "address": "2715 Colby Ave, Everett, WA 98201",
+            "phone": "(425) 259-6200",
+            "languages": ["English", "Spanish", "Arabic"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Community Legal Clinic",
+            "category": "Legal Aid",
+            "address": "2800 Wetmore Ave, Everett, WA 98201",
+            "phone": "(425) 258-8123",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Legal Assistance Program",
+            "category": "Legal Aid",
+            "address": "2701 Rockefeller Ave, Everett, WA 98201",
+            "phone": "(425) 252-9000",
+            "languages": ["English", "Spanish", "Korean"],
+            "zip": "98201"
+        },
+        {
+            "name": "Civil Legal Help Everett Office",
+            "category": "Legal Aid",
+            "address": "2825 Colby Ave, Everett, WA 98201",
+            "phone": "(425) 252-8515",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Esther's Place Day Resource Center",
+            "category": "Shelters",
+            "address": "3705 Broadway, Everett, WA 98201",
+            "phone": "(425) 374-2329",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Gospel Mission – Women & Children Shelter",
+            "category": "Shelters",
+            "address": "5126 S 2nd Ave, Everett, WA 98203",
+            "phone": "(425) 740-2501",
+            "languages": ["English", "Spanish", "Tagalog"],
+            "zip": "98203"
+        },
+        {
+            "name": "Cocoon House (Youth Shelter)",
+            "category": "Shelters",
+            "address": "3530 Colby Ave, Everett, WA 98201",
+            "phone": "(425) 259-5802",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Housing Hope – Everett",
+            "category": "Shelters",
+            "address": "5830 Evergreen Way, Everett, WA 98203",
+            "phone": "(425) 347-6556",
+            "languages": ["English", "Spanish", "Russian", "Ukrainian"],
+            "zip": "98203"
+        },
+        {
+            "name": "YWCA Everett – Women & Children",
+            "category": "Shelters",
+            "address": "3301 Broadway, Everett, WA 98201",
+            "phone": "(425) 258-2766",
+            "languages": ["English", "Spanish", "Tagalog", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Interfaith Family Shelter",
+            "category": "Shelters",
+            "address": "3021 Hoyt Ave, Everett, WA 98201",
+            "phone": "(425) 252-6672",
+            "languages": ["English", "Spanish", "Arabic"],
+            "zip": "98201"
+        },
+        {
+            "name": "Domestic Violence Services of Snohomish County – Everett",
+            "category": "Shelters",
+            "address": "2802 Wetmore Ave, Everett, WA 98201",
+            "phone": "(425) 259-2827",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Compass Housing Alliance – Everett",
+            "category": "Shelters",
+            "address": "111 Cedar St, Everett, WA 98201",
+            "phone": "(425) 474-1000",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Mary's Place Family Shelter – Everett",
+            "category": "Shelters",
+            "address": "1830 Boren Ave, Everett, WA 98201",
+            "phone": "(206) 621-8474",
+            "languages": ["English", "Spanish", "Tagalog", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "HopeWorks Station Housing Services",
+            "category": "Shelters",
+            "address": "3331 Broadway, Everett, WA 98201",
+            "phone": "(425) 374-5382",
+            "languages": ["English", "Spanish", "Arabic"],
+            "zip": "98201"
+        },
+        {
+            "name": "Bible Baptist Church Free ESL Classes",
+            "category": "ESL",
+            "address": "805 W Casino Rd, Everett, WA 98204",
+            "phone": "(425) 353-6200",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98204"
+        },
+        {
+            "name": "Everett Public Library ESL Programs",
+            "category": "ESL",
+            "address": "9512 Evergreen Way, Everett, WA 98204",
+            "phone": "(425) 257-8000",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98204"
+        },
+        {
+            "name": "Everett Community College ESL Program",
+            "category": "ESL",
+            "address": "2000 Tower St, Everett, WA 98201",
+            "phone": "(425) 388-9291",
+            "languages": ["English", "Spanish", "Tagalog"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Adult Education ESL Program",
+            "category": "ESL",
+            "address": "3900 Broadway, Everett, WA 98201",
+            "phone": "(425) 385-5700",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett School District ESL Classes",
+            "category": "ESL",
+            "address": "3900 Broadway, Everett, WA 98201",
+            "phone": "(425) 385-4000",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Library ESL Conversation Circle",
+            "category": "ESL",
+            "address": "2702 Hoyt Ave, Everett, WA 98201",
+            "phone": "(425) 257-8000",
+            "languages": ["English", "Spanish", "Tagalog"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Community Center ESL Classes",
+            "category": "ESL",
+            "address": "3300 Broadway, Everett, WA 98201",
+            "phone": "(425) 257-7100",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Literacy Program – ESL",
+            "category": "ESL",
+            "address": "2722 Colby Ave, Everett, WA 98201",
+            "phone": "(425) 259-6200",
+            "languages": ["English", "Spanish", "Korean"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Youth ESL Program",
+            "category": "ESL",
+            "address": "3530 Colby Ave, Everett, WA 98201",
+            "phone": "(425) 259-5802",
+            "languages": ["English", "Spanish", "Russian"],
+            "zip": "98201"
+        },
+        {
+            "name": "Everett Senior ESL Classes",
+            "category": "ESL",
+            "address": "3711 Smith Ave, Everett, WA 98201",
+            "phone": "(425) 740-2500",
+            "languages": ["English", "Spanish", "Vietnamese"],
+            "zip": "98201"
+        }
+    ]
+}
